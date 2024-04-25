@@ -3,6 +3,7 @@
 
 ## Database
 - [Pekka Enberg Blogs](https://penberg.org/)
+- [Cassandra Documentation](https://cassandra.apache.org/doc/latest/cassandra/architecture/overview.html)
 
 ## PostgreSQL Internals Resources
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
@@ -15,13 +16,43 @@
 ## Technical Blogs worth reading
 - [One percent of Googlers get to visit a data center, but I did](https://blog.google/inside-google/infrastructure/how-data-center-security-works/)
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
+- [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+- [Optimistic vs. Pessimistic locking](https://stackoverflow.com/questions/129329/optimistic-vs-pessimistic-locking/58952004?stw=2#58952004)
+- [Uber’s Emergency Button and The Technologies Behind It](https://www.uber.com/en-IN/blog/ubers-emergency-button-and-the-technologies-behind-it/)
+- [High Scalability](https://highscalability.com/)
+- [A Detailed Explanation of the Underlying Data Structures and Principles of Git](https://www.alibabacloud.com/blog/a-detailed-explanation-of-the-underlying-data-structures-and-principles-of-git_597391)
+- [Redis Explained](https://architecturenotes.co/redis/)
+- [Design Patterns](https://refactoring.guru/design-patterns)
+- [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
+- [When NOT to use Apache Kafka?](https://www.kai-waehner.de/blog/2022/01/04/when-not-to-use-apache-kafka/)
+- [Kafka In Production](https://github.com/dttung2905/kafka-in-production)
+- [Sending Reliable Event Notifications with Transactional Outbox Pattern](https://medium.com/event-driven-utopia/sending-reliable-event-notifications-with-transactional-outbox-pattern-7a7c69158d1b)
+- [Byte Sized Design](https://bytesizeddesign.substack.com/)
+- [How I got in to Amazon, Microsoft, Google. All from studying these resources](https://levelup.gitconnected.com/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e)
+- [My Google L4 interview experience](https://alexcancode.medium.com/google-l3-l4-seattle-offer-b645fedd34fc)
+
 
 ## Distributed Systems
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
+- [Distributed lock with Redis and Spring Boot](https://medium.com/@egorponomarev/distributed-lock-with-redis-and-spring-boot-2c3f51a44c65)
+- [Papers: Advanced Distributed Systems](https://systems.cs.columbia.edu/ds2-class/01-papers/)
+- [Foundational distributed systems papers](https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 
 ### Apache Tomcat Internals
 - [A Bootiful Podcast: Mark Thomas, Apache Tomcat contributor extraordinaire](https://spring.io/blog/2023/03/23/a-bootiful-podcast-mark-thomas-apache-tomcat-contributor-extraordinaire)
 
 ## System Design Interview
 - [System Design Interview with 7 Must-Read Papers](https://www.designgurus.io/blog/sys-design-papers)
+
+## Data Structure and Algorithms
+- [Abdul Bari - Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- [Striver’s SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+- [Graph Theory](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
+- [Leetcode DSA sheet by Fraz](https://docs.google.com/spreadsheets/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/)
+
+## Misc
+- [Git Alias](https://github.com/GitAlias/gitalias)
+- [Public Cloud Services Comparison](https://comparecloud.in/)
+- [Netflix Open Source Software Center](https://netflix.github.io/)
