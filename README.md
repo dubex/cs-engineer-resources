@@ -53,9 +53,9 @@
 - [Leetcode DSA sheet by Fraz](https://docs.google.com/spreadsheets/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/)
 
 ## Tech Blogs should be read frequently
-- [The Netflix Tech Blog](https://netflixtechblog.com/)
-- [Engineering at Meta](https://engineering.fb.com/)
-- [Engineering at Uber](https://eng.uber.com/)
+- [The Netflix Tech Blog](https://netflixtechblog.com/){:target="_blank"}
+- [Engineering at Meta](https://engineering.fb.com/){:target="_blank"}
+- [Engineering at Uber](https://eng.uber.com/){:target="_blank"}
 - [Instagram Engineering](https://instagram-engineering.com/)
 - [Google Developer's Blog](https://developers.googleblog.com/)
   
