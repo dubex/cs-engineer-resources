@@ -52,6 +52,13 @@
 - [Graph Theory](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 - [Leetcode DSA sheet by Fraz](https://docs.google.com/spreadsheets/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/)
 
+## Tech Blogs should be read frequently
+- [The Netflix Tech Blog](https://netflixtechblog.com/)
+- [Engineering at Meta](https://engineering.fb.com/)
+- [Engineering at Uber](https://eng.uber.com/)
+- [Instagram Engineering](https://instagram-engineering.com/)
+- [Google Developer's Blog](https://developers.googleblog.com/)
+  
 ## Misc
 - [Git Alias](https://github.com/GitAlias/gitalias)
 - [Public Cloud Services Comparison](https://comparecloud.in/)
