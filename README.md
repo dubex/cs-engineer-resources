@@ -58,6 +58,13 @@
 - [Engineering at Uber](https://eng.uber.com/){:target="_blank"}
 - [Instagram Engineering](https://instagram-engineering.com/)
 - [Google Developer's Blog](https://developers.googleblog.com/)
+- [Spotify Engineering](https://engineering.atspotify.com/)
+- [Medium Engineering](https://medium.engineering/)
+- [Meta Research](https://research.fb.com/)
+- [Engineering at Quora](https://www.quora.com/q/quoraengineering)
+- [LinkedIn Engineering Blog](https://engineering.linkedin.com/blog)
+- [The Airbnb Tech Blog](https://medium.com/airbnb-engineering)
+- [Google Research](https://research.google/blog/)
   
 ## Misc
 - [Git Alias](https://github.com/GitAlias/gitalias)
