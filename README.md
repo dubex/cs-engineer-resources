@@ -48,6 +48,7 @@
 - [Design to Shine: How to Ace Your Next System Design Interview](https://hackernoon.com/design-to-shine-how-to-ace-your-next-system-design-interview-2282bbf45c40)
 - [Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
 - [SYSTEM DESIGN INTERVIEW PREPARATION SERIES](https://www.codekarle.com/)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Data Structure and Algorithms
 - [Abdul Bari - Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
