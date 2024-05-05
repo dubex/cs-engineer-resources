@@ -1,4 +1,3 @@
-# cs-engineer-resources
 # CS Resources
 
 ## Database
@@ -45,6 +44,8 @@
 
 ## System Design Interview
 - [System Design Interview with 7 Must-Read Papers](https://www.designgurus.io/blog/sys-design-papers)
+- [System Design Interview Question Handbook – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
+- 
 
 ## Data Structure and Algorithms
 - [Abdul Bari - Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
@@ -65,6 +66,10 @@
 - [LinkedIn Engineering Blog](https://engineering.linkedin.com/blog)
 - [The Airbnb Tech Blog](https://medium.com/airbnb-engineering)
 - [Google Research](https://research.google/blog/)
+- [High Scalability](https://highscalability.com/)
+
+## Data Science
+- [ML system design: 300 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
   
 ## Misc
 - [Git Alias](https://github.com/GitAlias/gitalias)
