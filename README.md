@@ -49,6 +49,7 @@
 - [Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
 - [SYSTEM DESIGN INTERVIEW PREPARATION SERIES](https://www.codekarle.com/)
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Google system design interview: Design Spotify](https://www.youtube.com/watch?v=_K-eupuDVEc)
 
 ## Data Structure and Algorithms
 - [Abdul Bari - Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
@@ -78,3 +79,4 @@
 - [Git Alias](https://github.com/GitAlias/gitalias)
 - [Public Cloud Services Comparison](https://comparecloud.in/)
 - [Netflix Open Source Software Center](https://netflix.github.io/)
+- [How Netflix Really Uses Java](https://www.youtube.com/watch?v=BaUrpq_7KMk)
