@@ -3,6 +3,7 @@
 ## Database
 - [Pekka Enberg Blogs](https://penberg.org/)
 - [Cassandra Documentation](https://cassandra.apache.org/doc/latest/cassandra/architecture/overview.html)
+- [CMU Intro to Database Systems](https://www.youtube.com/watch?v=vdPALZ-GCfI&list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
 
 ## PostgreSQL Internals Resources
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
