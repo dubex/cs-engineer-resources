@@ -81,3 +81,8 @@
 - [Public Cloud Services Comparison](https://comparecloud.in/)
 - [Netflix Open Source Software Center](https://netflix.github.io/)
 - [How Netflix Really Uses Java](https://www.youtube.com/watch?v=BaUrpq_7KMk)
+
+## Behavioural Interview
+- [Googleyness & Leadership Interview Questions](https://igotanoffer.com/blogs/tech/googleyness-leadership-interview-questions)
+- [Meta behavioral interview](https://igotanoffer.com/blogs/product-manager/behavioral-interview-questions-tech-companies)
+- [The Amazon Leadership Principles - A Complete Interview Guide](https://www.scarletink.com/p/interviewing-at-amazon-leadership-principles)
