@@ -11,3 +11,14 @@
 |                             |  Yes   |
 
 
+
+
+## Books must read for Engineering Manager
+
+| Book Name                                               | Have   |
+| --------------------------------------------------------|--------|
+| The Manager's Path: A Guide for Tech Leaders            | Yes    |
+| Engineering Management for the Rest of Us               |        |  
+| The Five Dysfunctions of a Team: A Leadership Fable     |        | 
+
+
