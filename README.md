@@ -86,3 +86,7 @@
 - [Googleyness & Leadership Interview Questions](https://igotanoffer.com/blogs/tech/googleyness-leadership-interview-questions)
 - [Meta behavioral interview](https://igotanoffer.com/blogs/product-manager/behavioral-interview-questions-tech-companies)
 - [The Amazon Leadership Principles - A Complete Interview Guide](https://www.scarletink.com/p/interviewing-at-amazon-leadership-principles)
+
+  ## System Design YT Channel
+  - [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163)
+  - [Hello](https://www.youtube.com/@hello_interview)
