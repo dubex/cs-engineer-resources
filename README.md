@@ -93,3 +93,4 @@
 - [I Got An Offer](https://www.youtube.com/@IGotAnOffer-Engineering)
 - [Code Karle](https://www.youtube.com/@codeKarle)
 - [https://www.youtube.com/@SDFC](System Design Fight Club)
+- [https://www.youtube.com/playlist?list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V](InfoQ Software Architecture)
