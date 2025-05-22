@@ -60,8 +60,8 @@
 
 ## Tech Blogs should be read frequently
 - [The Netflix Tech Blog](https://netflixtechblog.com/)
-- [Engineering at Meta](https://engineering.fb.com/){:target="_blank"}
-- [Engineering at Uber](https://eng.uber.com/){:target="_blank"}
+- [Engineering at Meta](https://engineering.fb.com/)
+- [Engineering at Uber](https://eng.uber.com/)
 - [Instagram Engineering](https://instagram-engineering.com/)
 - [Google Developer's Blog](https://developers.googleblog.com/)
 - [Spotify Engineering](https://engineering.atspotify.com/)
