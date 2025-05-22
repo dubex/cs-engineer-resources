@@ -89,7 +89,7 @@
 
 ## System Design YT Channel
 - [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163)
-- [Hello](https://www.youtube.com/@hello_interview)
+- [Hello Interview](https://www.youtube.com/@hello_interview)
 - [I Got An Offer](https://www.youtube.com/@IGotAnOffer-Engineering)
 - [Code Karle](https://www.youtube.com/@codeKarle)
 - [System Design Fight Club](https://www.youtube.com/@SDFC)
