@@ -86,6 +86,8 @@
 - [Googleyness & Leadership Interview Questions](https://igotanoffer.com/blogs/tech/googleyness-leadership-interview-questions)
 - [Meta behavioral interview](https://igotanoffer.com/blogs/product-manager/behavioral-interview-questions-tech-companies)
 - [The Amazon Leadership Principles - A Complete Interview Guide](https://www.scarletink.com/p/interviewing-at-amazon-leadership-principles)
+- [Tech Lead Manager Behavioral Interview with a FAANG Engineer](https://www.youtube.com/watch?v=EcaxGJc5e9c)
+- [Senior-level Behavioral Interview with a FAANG Engineer](https://www.youtube.com/watch?v=TPCE3Mdw1Rc)
 
 ## System Design YT Channel
 - [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163)
@@ -94,3 +96,15 @@
 - [Code Karle](https://www.youtube.com/@codeKarle)
 - [System Design Fight Club](https://www.youtube.com/@SDFC)
 - [InfoQ Software Architecture](https://www.youtube.com/playlist?list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V)
+- [interviewing.io](https://www.youtube.com/@interviewingio)
+
+
+## Salary Negotiation 
+- [How to Negotiate Your Tech Salary Simulation](https://www.youtube.com/watch?v=fyn0CKPuPlA)
+- [Exponent](https://www.youtube.com/@tryexponent)
+- [Negotiation 201: Advanced salary negotiation tactics for software engineers](https://www.youtube.com/watch?v=55ns1E9L2hk)
+- [Negotiation 101: How to not suck at Salary Negotiation](https://www.youtube.com/watch?v=qilnCGjrpso)
+- [Negotiation 301: A Case Study for Software Engineers](https://www.youtube.com/watch?v=GxP99cU9Zmc)
+- [Live Salary Negotiation with an Expert](https://www.youtube.com/watch?v=U1dvBjw2bA8)
+- [How to Negotiate When You're Screwed (Software Engineers)](https://www.youtube.com/watch?v=YjNF88vi0bk)
+- [The unwritten rules (till now) of negotiating with Meta](https://www.youtube.com/watch?v=85lpYPJDR1Q)
